@@ -3,7 +3,7 @@ import { NextPageWithLayout } from "@/models";
 import { MainLayout } from "components/layout";
 import Typography from '@mui/material/Typography';
 import { useWallet } from "@meshsdk/react";
-import { Seo } from "@/component/common/seo";
+import { Seo } from "@/components/common/seo";
 
 
 const Home: NextPageWithLayout = () => {

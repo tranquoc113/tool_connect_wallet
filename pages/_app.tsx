@@ -1,4 +1,5 @@
 import "../styles/globals.css";
+import '../public/antd.min.css';
 import { MeshProvider } from "@meshsdk/react";
 import { AppPropsWithLayout } from "@/models";
 import { EmptyLayout } from "components/layout";

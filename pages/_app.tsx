@@ -3,7 +3,6 @@ import '../public/antd.min.css';
 import { MeshProvider } from "@meshsdk/react";
 import { AppPropsWithLayout } from "@/models";
 import { EmptyLayout } from "components/layout";
-import { createEmotionCache, theme } from "@/utils";
 import withTheme from '../theme';
 
 

@@ -9,6 +9,7 @@ export default class MyDocument extends Document {
 		return (
 			<Html lang="en">
 				<Head>
+					<link rel="shortcut icon" href="https://dconecrypto.finance/favicon.ico" />
 					{/* PWA primary color */}
 					{/* <meta name="theme-color" content={theme.palette.primary.main} /> */}
 					<link
